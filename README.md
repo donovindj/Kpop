@@ -1,2 +1,2 @@
-# Kpop
-Understanding BTS through Data and A.I.
+# kpopclassifier
+creating a bts classifier
